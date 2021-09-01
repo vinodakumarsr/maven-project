@@ -1,1 +1,1 @@
-WELCOME All for CI1
+WELCOME All for CI AND CD
